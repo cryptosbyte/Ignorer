@@ -1,0 +1,4 @@
+# Use PIP3 to install modules:
+# python3 -m pip install -r requirements.txt
+sys
+requests
